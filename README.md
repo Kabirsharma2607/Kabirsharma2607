@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iskabircoding" target="blank"><img src="https://img.shields.io/twitter/follow/iskabircoding?logo=twitter&style=for-the-badge" alt="iskabircoding" /></a> </p>
 
-- 🔭 I’m currently working at **Oyesense**
+- 🔭 I’m currently working at **Jupiter**
 
 - 👨‍💻 All of my projects are available at [https://kabir-dev-portfolio.vercel.app](https://kabir-dev-portfolio.vercel.app)
 
